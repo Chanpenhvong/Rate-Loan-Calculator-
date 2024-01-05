@@ -1,0 +1,33 @@
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\smey\Desktop\For code\Programming C# -Y2S2\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\NU\Project Year2\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
